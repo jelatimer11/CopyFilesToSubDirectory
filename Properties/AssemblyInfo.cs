@@ -8,9 +8,9 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CopyFilesToSubDirectory")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Copies a file to all subdirectories in a parent directory.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Norama")]
 [assembly: AssemblyProduct("CopyFilesToSubDirectory")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
